@@ -1,9 +1,9 @@
 //============================================================================
-// Name        : AlgoritmosYEstructuras.cpp
+// Name        : 01_costofijoyvariable.cpp
 // Author      : Manuel Fernando Aller
 // Version     :
 // Copyright   : (c) Manuel Fernando Aller
-// Description : Hello World in C++, Ansi-style
+// Description : This asignature examples C++, Ansi-style
 //============================================================================
 
 #include <iostream>
