@@ -1,3 +1,10 @@
+//============================================================================
+// Name        : 02_imprimirMayorNota.cpp
+// Author      : Manuel Fernando Aller
+// Version     :
+// Copyright   : (c) Manuel Fernando Aller
+// Description : imprimir el que tenga mayor nota
+//============================================================================
 #include <iostream>
 using namespace std;
 
